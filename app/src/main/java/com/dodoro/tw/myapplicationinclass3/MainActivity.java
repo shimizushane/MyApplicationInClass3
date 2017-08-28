@@ -41,4 +41,16 @@ public class MainActivity extends AppCompatActivity {
     {
         startService(new Intent(MainActivity.this, MyService.class));
     }
+    public void clickthree(View v)
+    {
+        startActivity(new Intent(MainActivity.this,ThreeActivity.class));
+    }
+    public void clickfour(View v)
+    {
+        startActivity(new Intent(MainActivity.this,FourActivity.class));
+    }
+    public void clickfive(View v)
+    {
+        startActivity(new Intent(MainActivity.this,FiveActivity.class));
+    }
 }
