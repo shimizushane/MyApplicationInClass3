@@ -53,4 +53,8 @@ public class MainActivity extends AppCompatActivity {
     {
         startActivity(new Intent(MainActivity.this,FiveActivity.class));
     }
+    public void clicksix(View v)
+    {
+        startActivity(new Intent(MainActivity.this,SixActivity.class));
+    }
 }

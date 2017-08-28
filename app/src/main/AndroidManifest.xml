@@ -41,7 +41,8 @@
             android:name=".FourActivity"
             android:label="@string/title_activity_four"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".FiveActivity"></activity>
+        <activity android:name=".FiveActivity" />
+        <activity android:name=".SixActivity"></activity>
     </application>
 
 </manifest>

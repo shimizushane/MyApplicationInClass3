@@ -2,13 +2,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.dodoro.tw.myapplicationinclass3.BlankFragment_A">
+    tools:context="com.dodoro.tw.myapplicationinclass3.Fragment_empty">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:id="@+id/textview_a"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
 
 </FrameLayout>
