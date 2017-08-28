@@ -94,4 +94,15 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button3" />
 
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:onClick="clickseven"
+        android:text="seven"
+        app:layout_constraintLeft_toRightOf="@+id/button8"
+        app:layout_constraintTop_toBottomOf="@+id/button5" />
+
 </android.support.constraint.ConstraintLayout>
